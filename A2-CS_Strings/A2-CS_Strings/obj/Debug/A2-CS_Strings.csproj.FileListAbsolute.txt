@@ -1,0 +1,8 @@
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\bin\Debug\A2-CS_Strings.exe.config
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\bin\Debug\A2-CS_Strings.exe
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\bin\Debug\A2-CS_Strings.pdb
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\obj\Debug\A2-CS_Strings.csproj.AssemblyReference.cache
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\obj\Debug\A2-CS_Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\obj\Debug\A2-CS_Strings.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\obj\Debug\A2-CS_Strings.exe
+C:\Users\adghedy\OneDrive\Desktop\For Learning\01-BIM Application Development- KaiTech\00-Assignment\02-Second Assignment\A2-CS_Strings\A2-CS_Strings\obj\Debug\A2-CS_Strings.pdb
